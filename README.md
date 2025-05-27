@@ -2,7 +2,7 @@
 
 A simple Java console application I created during my second year of study at university, which simulates a payroll deduction system used in the Philippines. It calculates monthly income tax, SSS, Pag-IBIG, and PhilHealth contributions based on a user's input salary.
 
-Features
+Features:
 - Prompts user to enter personal details and company name.
 - Accepts monthly salary input.
 - Automatically calculates:
@@ -13,11 +13,11 @@ Features
 - Displays formatted deduction summary.
 - Option to perform multiple inquiries.
 
-Notes
+Notes:
 - SSS and PhilHealth brackets are hardcoded based on current published rates (as of development).
 - For educational/demo purposes only.
 
-Instructions
+Instructions:
 Just download the .zip file, 
 then open Eclipse and go to File > Import > Existing Projects into Workspace to import it, 
 or simply drop the folder into your Eclipse workspace.
